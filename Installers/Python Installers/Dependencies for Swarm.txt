@@ -1,0 +1,3 @@
+run in minicoda after installing
+
+conda install -y -c conda-forge netifaces netaddr
